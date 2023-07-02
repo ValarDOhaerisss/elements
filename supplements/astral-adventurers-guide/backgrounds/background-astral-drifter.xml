@@ -32,7 +32,7 @@
 			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_INSIGHT" />
 			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_RELIGION" />
 			<select type="Language" name="Language (Astral Drifter)" supports="Standard||Exotic" number="2" />
-			<grant type="Background Feature" id="ID_WOTC_AAG_BACKGROUND_FEATURE_ASTRAL_DRIFTER_DIVINE_CONTACT" requirements="!ID_INTERNAL_GRANT_OPTIONAL_BACKGROUND_FEATURE"/>
+			<grant type="Background Feature" id="ID_WOTC_AAG_BACKGROUND_FEATURE_ASTRAL_DRIFTER_DIVINE_CONTACT" requirements="!ID_INTERNAL_GRANTS_BACKGROUND_WITH_A_FEAT_FEATURE"/>
 			<select type="Background Feature" name="Variant Feature" supports="Optional Background Feature" optional="true" />
 		</rules>
 	</element>
